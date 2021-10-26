@@ -1,0 +1,54 @@
+.wrap {
+    margin: 5px;
+    width: 1010px;
+    height: 620px;
+    background:#ffffff;
+    border: solid 5px silver;
+    border-radius: 20px;
+
+}
+.content{
+    display: flex;
+    flex-direction:row;
+
+}
+
+
+
+.a {
+    margin: 5px;
+    width: 1000px;
+    height: 100px;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+
+}
+
+.b {
+    margin: 5px;
+    width: 65%;
+    height: 500px;
+    background: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c{
+    margin: 5px;
+    width: 35%;
+    height: 500px;
+    background: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
